@@ -24,6 +24,12 @@ KEEP_STATE_ABBRS = {
 }
 
 
+# Map color behavior:
+# 0% crossover = strong party color.
+# CROSS_PARTY_PURPLE_AT or higher = pulled close to purple.
+CROSS_PARTY_PURPLE_AT = 25.0
+
+
 def get_alignment_score(row):
     republican_pct = row.get("with_republican_pct", np.nan)
     democratic_pct = row.get("with_democratic_pct", np.nan)
@@ -42,6 +48,33 @@ def get_cross_party_pct(row):
 
     if party == "Democratic":
         return row.get("with_republican_pct", np.nan)
+
+    return np.nan
+
+
+def get_party_adjusted_visual_score(row):
+    """
+    Visual map score:
+      +100 = party-line Republican / deep red
+       0   = high crossover / purple
+      -100 = party-line Democrat / deep blue
+
+    This keeps party direction visible while making crossover members less pure red/blue.
+    """
+    party = str(row.get("party", "")).strip()
+    cross_party_pct = row.get("cross_party_pct", np.nan)
+
+    if pd.isna(cross_party_pct):
+        return np.nan
+
+    crossover = max(0.0, min(float(cross_party_pct), CROSS_PARTY_PURPLE_AT))
+    magnitude = 100.0 * (1.0 - (crossover / CROSS_PARTY_PURPLE_AT))
+
+    if party == "Republican":
+        return magnitude
+
+    if party == "Democratic":
+        return -magnitude
 
     return np.nan
 
@@ -169,6 +202,7 @@ def main():
     members["district_key"] = members["district_key"].astype(str).str.strip()
     members["alignment_score"] = members.apply(get_alignment_score, axis=1)
     members["cross_party_pct"] = members.apply(get_cross_party_pct, axis=1)
+    members["party_adjusted_visual_score"] = members.apply(get_party_adjusted_visual_score, axis=1)
 
     # Keep one row per current district
     members = members.sort_values(
@@ -189,6 +223,7 @@ def main():
         "with_democratic_pct",
         "alignment_score",
         "cross_party_pct",
+        "party_adjusted_visual_score",
         "Republican Majority",
         "Democratic Majority",
         "Not Voting",
@@ -226,6 +261,7 @@ def main():
         + "<br>With Republican majority: " + merged["with_republican_pct"].round(1).astype(str).replace("nan", "NA") + "%"
         + "<br>With Democratic majority: " + merged["with_democratic_pct"].round(1).astype(str).replace("nan", "NA") + "%"
         + "<br>Cross-party voting: " + merged["cross_party_pct"].round(1).astype(str).replace("nan", "NA") + "%"
+        + "<br>Map color score: " + merged["party_adjusted_visual_score"].round(1).astype(str).replace("nan", "NA")
         + "<br>Votes cast on party-split roll calls: "
         + merged["votes_cast_on_party_split_roll_calls"].fillna(0).astype(int).astype(str)
         + "<br>Missed party-split votes: "
@@ -238,37 +274,34 @@ def main():
     print("Building GeoJSON...")
     geojson = merged.set_index("map_id").__geo_interface__
 
-    # Relative color scale based on the central distribution in the current Congress.
-    # Using percentiles keeps one or two outliers from flattening the whole map.
-    score_series = merged["alignment_score"].dropna()
+    # Party-adjusted visual scale.
+    # The sign shows party direction. The magnitude fades toward purple as crossover rises.
+    max_abs_score = 100
 
-    if score_series.empty:
-        max_abs_score = 100
-    else:
-        p05 = score_series.quantile(0.05)
-        p95 = score_series.quantile(0.95)
-        max_abs_score = max(abs(p05), abs(p95))
-        max_abs_score = max(5, math.ceil(max_abs_score / 5) * 5)
-
-    print(f"Using percentile-based relative color range: {-max_abs_score} to {max_abs_score}")
+    print(
+        f"Using party-adjusted crossover color scale: "
+        f"0% crossover = full party color; {CROSS_PARTY_PURPLE_AT:.0f}%+ crossover = near purple"
+    )
 
     fig = go.Figure(
         go.Choroplethmap(
             geojson=geojson,
             locations=merged["map_id"],
-            z=merged["alignment_score"],
+            z=merged["party_adjusted_visual_score"],
             featureidkey="id",
             text=merged["hover_text"],
             hovertemplate="%{text}<extra></extra>",
             colorscale=[
-                [0.0, "#2166ac"],
-                [0.5, "#7b3294"],
-                [1.0, "#b2182b"],
+                [0.00, "#2166ac"],  # strong Democratic / party-line blue
+                [0.25, "#67a9cf"],  # lighter blue
+                [0.50, "#b8a0d9"],  # lavender / crossover center
+                [0.75, "#ef8a9a"],  # lighter red
+                [1.00, "#b2182b"],  # strong Republican / party-line red
             ],
             zmin=-max_abs_score,
             zmax=max_abs_score,
             zmid=0,
-            colorbar=dict(title="D ? alignment ? R"),
+            colorbar=dict(title="D line ? purple ? R line"),
             marker_opacity=0.82,
             marker_line_width=0.25,
             marker_line_color="white",
@@ -453,7 +486,7 @@ def main():
             <ul class="bullets">
                 {rep_line}
                 {dem_line}
-                <li><strong>How to read the map:</strong> deeper red means a district's member more often voted with the Republican majority on party-split roll calls, deeper blue means they more often voted with the Democratic majority, and purple indicates a more mixed voting record.</li>
+                <li><strong>How to read the map:</strong> red districts are Republican-held, blue districts are Democratic-held, and districts become more purple as their member crosses party lines more often.</li>
                 <li><strong>Why the colors look stronger now:</strong> the scale is based on the central observed range in the current Congress, using the 5th and 95th percentiles instead of a fixed -100 to +100 range. That makes real variation inside this Congress easier to see without letting outliers control the map.</li>
             </ul>
         </div>
@@ -471,10 +504,10 @@ def main():
             Each district is colored by an <strong>alignment score</strong>:
         </p>
         <ul class="bullets">
-            <li><strong>Alignment score = with Republican majority % ? with Democratic majority %</strong></li>
-            <li><strong>Red</strong> = more Republican-majority aligned</li>
-            <li><strong>Blue</strong> = more Democratic-majority aligned</li>
-            <li><strong>Purple</strong> = more mixed / cross-party behavior</li>
+            <li><strong>Red districts</strong> are represented by Republicans; <strong>blue districts</strong> are represented by Democrats.</li>
+            <li>More saturated red or blue means the member stayed closer to their party majority on party-split roll calls.</li>
+            <li>Districts move toward <strong>purple</strong> as the member crosses party lines more often.</li>
+            <li>In this prototype, members at roughly <strong>{CROSS_PARTY_PURPLE_AT:.0f}%</strong> cross-party voting or higher are pulled close to purple.</li>
         </ul>
         <p>
             The bipartisan ranking below is based on <strong>cross-party voting percentage</strong>:
@@ -604,7 +637,7 @@ def main():
 </head>
 <body>
     <div class="page">
-        <h1>119th Congress: Voting alignment on party-split roll calls</h1>
+        <h1>119th Congress: Party-line voting and crossover behavior</h1>
         <div class="intro">
             This map shows how members of the current House delegation behaved on votes where the two parties were meaningfully split.
             It is designed to compare <strong>formal party identity</strong> with <strong>actual voting behavior</strong>.
