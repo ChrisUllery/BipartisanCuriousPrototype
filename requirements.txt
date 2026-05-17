@@ -1,0 +1,8 @@
+﻿pandas
+requests
+pyyaml
+tqdm
+geopandas
+plotly
+shapely
+pyogrio

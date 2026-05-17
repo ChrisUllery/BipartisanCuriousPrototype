@@ -1,0 +1,18 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw scraped/downloaded data
+data/raw/
+logs/
+
+# Local/editor files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Debug captures
+debug_clerk_site/
+debug_vote_detail/

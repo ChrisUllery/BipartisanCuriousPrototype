@@ -1,0 +1,449 @@
+representative,party,state,state_abbr,Democratic Majority,Not Voting,Present,Republican Majority,Neither,party_split_roll_calls,votes_cast_on_party_split_roll_calls,with_republican_pct,with_democratic_pct,missed_party_split_votes_pct
+Figures,Democratic,AL,AL,355,5,2,20,0,382,375,5.3,94.7,1.3
+Sewell,Democratic,AL,AL,359,4,1,18,0,382,377,4.8,95.2,1.0
+Ansari,Democratic,AZ,AZ,373,6,0,3,0,382,376,0.8,99.2,1.6
+Grijalva,Democratic,AZ,AZ,194,45,0,0,0,239,194,0.0,100.0,18.8
+Stanton,Democratic,AZ,AZ,347,7,0,28,0,382,375,7.5,92.5,1.8
+Aguilar,Democratic,CA,CA,370,2,1,9,0,382,379,2.4,97.6,0.5
+Barragán,Democratic,CA,CA,372,7,0,3,0,382,375,0.8,99.2,1.8
+Bera,Democratic,CA,CA,361,6,1,14,0,382,375,3.7,96.3,1.6
+Brownley,Democratic,CA,CA,368,11,0,3,0,382,371,0.8,99.2,2.9
+Carbajal,Democratic,CA,CA,368,1,0,13,0,382,381,3.4,96.6,0.3
+Chu,Democratic,CA,CA,379,1,0,2,0,382,381,0.5,99.5,0.3
+Cisneros,Democratic,CA,CA,372,1,0,9,0,382,381,2.4,97.6,0.3
+Correa,Democratic,CA,CA,331,23,0,28,0,382,359,7.8,92.2,6.0
+Costa,Democratic,CA,CA,318,11,1,52,0,382,370,14.1,85.9,2.9
+DeSaulnier,Democratic,CA,CA,373,8,0,1,0,382,374,0.3,99.7,2.1
+Friedman,Democratic,CA,CA,376,2,0,4,0,382,380,1.1,98.9,0.5
+Garamendi,Democratic,CA,CA,339,37,1,5,0,382,344,1.5,98.5,9.7
+Garcia (CA),Democratic,CA,CA,373,7,0,2,0,382,375,0.5,99.5,1.8
+Gomez,Democratic,CA,CA,359,18,0,5,0,382,364,1.4,98.6,4.7
+Gray,Democratic,CA,CA,273,19,1,89,0,382,362,24.6,75.4,5.0
+Harder (CA),Democratic,CA,CA,347,2,0,33,0,382,380,8.7,91.3,0.5
+Huffman,Democratic,CA,CA,376,4,0,2,0,382,378,0.5,99.5,1.0
+Jacobs,Democratic,CA,CA,381,0,0,1,0,382,382,0.3,99.7,0.0
+Kamlager-Dove,Democratic,CA,CA,367,13,0,2,0,382,369,0.5,99.5,3.4
+Khanna,Democratic,CA,CA,374,2,0,6,0,382,380,1.6,98.4,0.5
+Levin,Democratic,CA,CA,362,1,1,18,0,382,380,4.7,95.3,0.3
+Liccardo,Democratic,CA,CA,372,3,0,7,0,382,379,1.8,98.2,0.8
+Lieu,Democratic,CA,CA,360,12,1,9,0,382,369,2.4,97.6,3.1
+Lofgren,Democratic,CA,CA,368,5,1,8,0,382,376,2.1,97.9,1.3
+Matsui,Democratic,CA,CA,379,0,0,3,0,382,382,0.8,99.2,0.0
+Min,Democratic,CA,CA,359,1,0,22,0,382,381,5.8,94.2,0.3
+Mullin,Democratic,CA,CA,356,21,0,5,0,382,361,1.4,98.6,5.5
+Panetta,Democratic,CA,CA,348,0,0,34,0,382,382,8.9,91.1,0.0
+Pelosi,Democratic,CA,CA,354,24,1,3,0,382,357,0.8,99.2,6.3
+Peters,Democratic,CA,CA,357,3,1,21,0,382,378,5.6,94.4,0.8
+Rivas,Democratic,CA,CA,378,3,0,1,0,382,379,0.3,99.7,0.8
+Ruiz,Democratic,CA,CA,365,5,0,12,0,382,377,3.2,96.8,1.3
+Sherman,Democratic,CA,CA,370,7,0,5,0,382,375,1.3,98.7,1.8
+Simon,Democratic,CA,CA,373,7,0,2,0,382,375,0.5,99.5,1.8
+Swalwell,Democratic,CA,CA,209,120,0,7,0,336,216,3.2,96.8,35.7
+Sánchez,Democratic,CA,CA,372,7,0,3,0,382,375,0.8,99.2,1.8
+Takano,Democratic,CA,CA,380,2,0,0,0,382,380,0.0,100.0,0.5
+Thompson (CA),Democratic,CA,CA,368,2,0,12,0,382,380,3.2,96.8,0.5
+Torres (CA),Democratic,CA,CA,365,6,0,11,0,382,376,2.9,97.1,1.6
+Tran,Democratic,CA,CA,348,0,2,32,0,382,380,8.4,91.6,0.0
+Vargas,Democratic,CA,CA,375,5,0,2,0,382,377,0.5,99.5,1.3
+Waters,Democratic,CA,CA,367,14,0,1,0,382,368,0.3,99.7,3.7
+Whitesides,Democratic,CA,CA,335,8,1,38,0,382,373,10.2,89.8,2.1
+Crow,Democratic,CO,CO,376,0,0,6,0,382,382,1.6,98.4,0.0
+DeGette,Democratic,CO,CO,377,4,0,1,0,382,378,0.3,99.7,1.0
+Neguse,Democratic,CO,CO,379,0,0,3,0,382,382,0.8,99.2,0.0
+Pettersen,Democratic,CO,CO,325,49,0,8,0,382,333,2.4,97.6,12.8
+Courtney,Democratic,CT,CT,340,26,1,15,0,382,355,4.2,95.8,6.8
+DeLauro,Democratic,CT,CT,373,3,1,5,0,382,378,1.3,98.7,0.8
+Hayes,Democratic,CT,CT,376,0,0,6,0,382,382,1.6,98.4,0.0
+Himes,Democratic,CT,CT,359,3,1,19,0,382,378,5.0,95.0,0.8
+Larson (CT),Democratic,CT,CT,368,11,0,3,0,382,371,0.8,99.2,2.9
+Norton,Democratic,DC,DC,40,0,0,0,0,40,40,0.0,100.0,0.0
+McBride,Democratic,DE,DE,370,2,1,9,0,382,379,2.4,97.6,0.5
+Castor (FL),Democratic,FL,FL,366,7,1,8,0,382,374,2.1,97.9,1.8
+Cherfilus-McCormick,Democratic,FL,FL,339,4,0,7,0,350,346,2.0,98.0,1.1
+"Frankel, Lois",Democratic,FL,FL,357,16,1,8,0,382,365,2.2,97.8,4.2
+Frost,Democratic,FL,FL,381,1,0,0,0,382,381,0.0,100.0,0.3
+Moskowitz,Democratic,FL,FL,329,10,1,42,0,382,371,11.3,88.7,2.6
+Soto,Democratic,FL,FL,353,0,1,28,0,382,381,7.3,92.7,0.0
+Wasserman Schultz,Democratic,FL,FL,363,7,0,12,0,382,375,3.2,96.8,1.8
+Wilson (FL),Democratic,FL,FL,300,80,0,2,0,382,302,0.7,99.3,20.9
+Bishop,Democratic,GA,GA,346,8,0,28,0,382,374,7.5,92.5,2.1
+Johnson (GA),Democratic,GA,GA,371,8,0,3,0,382,374,0.8,99.2,2.1
+McBath,Democratic,GA,GA,341,25,1,15,0,382,356,4.2,95.8,6.5
+"Scott, David",Democratic,GA,GA,341,5,0,6,0,352,347,1.7,98.3,1.4
+Williams (GA),Democratic,GA,GA,363,18,0,1,0,382,364,0.3,99.7,4.7
+Case,Democratic,HI,HI,361,2,1,18,0,382,379,4.7,95.3,0.5
+Tokuda,Democratic,HI,HI,382,0,0,0,0,382,382,0.0,100.0,0.0
+Budzinski,Democratic,IL,IL,355,0,0,27,0,382,382,7.1,92.9,0.0
+Casten,Democratic,IL,IL,374,2,1,5,0,382,379,1.3,98.7,0.5
+Davis (IL),Democratic,IL,IL,376,5,0,1,0,382,377,0.3,99.7,1.3
+Foster,Democratic,IL,IL,369,0,1,12,0,382,381,3.1,96.9,0.0
+García (IL),Democratic,IL,IL,375,5,0,2,0,382,377,0.5,99.5,1.3
+Jackson (IL),Democratic,IL,IL,352,22,0,8,0,382,360,2.2,97.8,5.8
+Kelly (IL),Democratic,IL,IL,373,7,0,2,0,382,375,0.5,99.5,1.8
+Krishnamoorthi,Democratic,IL,IL,365,11,0,6,0,382,371,1.6,98.4,2.9
+Quigley,Democratic,IL,IL,356,16,0,10,0,382,366,2.7,97.3,4.2
+Ramirez,Democratic,IL,IL,371,9,0,2,0,382,373,0.5,99.5,2.4
+Schakowsky,Democratic,IL,IL,368,13,0,1,0,382,369,0.3,99.7,3.4
+Schneider,Democratic,IL,IL,353,9,1,19,0,382,372,5.1,94.9,2.4
+Sorensen,Democratic,IL,IL,349,0,0,33,0,382,382,8.6,91.4,0.0
+Underwood,Democratic,IL,IL,379,2,0,1,0,382,380,0.3,99.7,0.5
+Carson,Democratic,IN,IN,374,5,0,3,0,382,377,0.8,99.2,1.3
+Mrvan,Democratic,IN,IN,342,10,1,29,0,382,371,7.8,92.2,2.6
+Davids (KS),Democratic,KS,KS,348,3,0,31,0,382,379,8.2,91.8,0.8
+McGarvey,Democratic,KY,KY,378,1,0,3,0,382,381,0.8,99.2,0.3
+Carter (LA),Democratic,LA,LA,370,5,0,7,0,382,377,1.9,98.1,1.3
+Fields,Democratic,LA,LA,361,13,1,7,0,382,368,1.9,98.1,3.4
+Auchincloss,Democratic,MA,MA,347,19,0,16,0,382,363,4.4,95.6,5.0
+Clark (MA),Democratic,MA,MA,377,0,1,4,0,382,381,1.0,99.0,0.0
+Keating,Democratic,MA,MA,356,17,0,9,0,382,365,2.5,97.5,4.5
+Lynch,Democratic,MA,MA,355,9,0,18,0,382,373,4.8,95.2,2.4
+McGovern,Democratic,MA,MA,374,8,0,0,0,382,374,0.0,100.0,2.1
+Moulton,Democratic,MA,MA,336,38,0,8,0,382,344,2.3,97.7,9.9
+Neal,Democratic,MA,MA,366,13,0,3,0,382,369,0.8,99.2,3.4
+Pressley,Democratic,MA,MA,378,4,0,0,0,382,378,0.0,100.0,1.0
+Trahan,Democratic,MA,MA,359,16,0,7,0,382,366,1.9,98.1,4.2
+Elfreth,Democratic,MD,MD,376,0,0,6,0,382,382,1.6,98.4,0.0
+Hoyer,Democratic,MD,MD,361,7,2,12,0,382,373,3.2,96.8,1.8
+Ivey,Democratic,MD,MD,373,7,0,2,0,382,375,0.5,99.5,1.8
+McClain Delaney,Democratic,MD,MD,355,8,0,19,0,382,374,5.1,94.9,2.1
+Mfume,Democratic,MD,MD,368,12,0,2,0,382,370,0.5,99.5,3.1
+Olszewski,Democratic,MD,MD,374,1,2,5,0,382,379,1.3,98.7,0.3
+Raskin,Democratic,MD,MD,378,2,0,2,0,382,380,0.5,99.5,0.5
+Golden (ME),Democratic,ME,ME,263,11,0,108,0,382,371,29.1,70.9,2.9
+Pingree,Democratic,ME,ME,365,14,0,3,0,382,368,0.8,99.2,3.7
+Dingell,Democratic,MI,MI,375,6,0,1,0,382,376,0.3,99.7,1.6
+McDonald Rivet,Democratic,MI,MI,336,0,1,45,0,382,381,11.8,88.2,0.0
+Scholten,Democratic,MI,MI,345,4,0,33,0,382,378,8.7,91.3,1.0
+Stevens,Democratic,MI,MI,364,1,0,17,0,382,381,4.5,95.5,0.3
+Thanedar,Democratic,MI,MI,369,2,0,11,0,382,380,2.9,97.1,0.5
+Tlaib,Democratic,MI,MI,374,7,0,1,0,382,375,0.3,99.7,1.8
+Craig,Democratic,MN,MN,360,1,0,21,0,382,381,5.5,94.5,0.3
+McCollum,Democratic,MN,MN,377,1,2,2,0,382,379,0.5,99.5,0.3
+Morrison,Democratic,MN,MN,374,1,0,7,0,382,381,1.8,98.2,0.3
+Omar,Democratic,MN,MN,371,8,0,3,0,382,374,0.8,99.2,2.1
+Bell,Democratic,MO,MO,365,8,1,8,0,382,373,2.1,97.9,2.1
+Cleaver,Democratic,MO,MO,360,20,0,2,0,382,362,0.6,99.4,5.2
+Thompson (MS),Democratic,MS,MS,369,8,0,5,0,382,374,1.3,98.7,2.1
+Adams,Democratic,NC,NC,381,0,0,1,0,382,382,0.3,99.7,0.0
+Davis (NC),Democratic,NC,NC,271,0,2,109,0,382,380,28.7,71.3,0.0
+Foushee,Democratic,NC,NC,371,11,0,0,0,382,371,0.0,100.0,2.9
+Ross,Democratic,NC,NC,377,0,1,4,0,382,381,1.0,99.0,0.0
+Goodlander,Democratic,NH,NH,343,0,2,37,0,382,380,9.7,90.3,0.0
+Pappas,Democratic,NH,NH,340,0,2,40,0,382,380,10.5,89.5,0.0
+Conaway,Democratic,NJ,NJ,358,6,2,16,0,382,374,4.3,95.7,1.6
+Gottheimer,Democratic,NJ,NJ,296,44,0,42,0,382,338,12.4,87.6,11.5
+McIver,Democratic,NJ,NJ,381,1,0,0,0,382,381,0.0,100.0,0.3
+Mejia,Democratic,NJ,NJ,31,0,0,1,0,32,32,3.1,96.9,0.0
+Menendez,Democratic,NJ,NJ,378,0,0,4,0,382,382,1.0,99.0,0.0
+Norcross,Democratic,NJ,NJ,315,59,0,8,0,382,323,2.5,97.5,15.4
+Pallone,Democratic,NJ,NJ,375,2,1,4,0,382,379,1.1,98.9,0.5
+Pou,Democratic,NJ,NJ,368,0,1,13,0,382,381,3.4,96.6,0.0
+Sherrill,Democratic,NJ,NJ,94,102,0,7,0,203,101,6.9,93.1,50.2
+Watson Coleman,Democratic,NJ,NJ,377,5,0,0,0,382,377,0.0,100.0,1.3
+Leger Fernandez,Democratic,NM,NM,347,31,0,4,0,382,351,1.1,98.9,8.1
+Stansbury,Democratic,NM,NM,373,8,0,1,0,382,374,0.3,99.7,2.1
+Vasquez,Democratic,NM,NM,339,2,0,41,0,382,380,10.8,89.2,0.5
+Horsford,Democratic,NV,NV,343,5,2,32,0,382,375,8.5,91.5,1.3
+Lee (NV),Democratic,NV,NV,332,4,1,45,0,382,377,11.9,88.1,1.0
+Titus,Democratic,NV,NV,328,39,1,14,0,382,342,4.1,95.9,10.2
+Clarke (NY),Democratic,NY,NY,369,12,0,1,0,382,370,0.3,99.7,3.1
+Espaillat,Democratic,NY,NY,375,4,0,3,0,382,378,0.8,99.2,1.0
+Gillen,Democratic,NY,NY,309,11,1,61,0,382,370,16.5,83.5,2.9
+Goldman (NY),Democratic,NY,NY,354,21,0,7,0,382,361,1.9,98.1,5.5
+Jeffries,Democratic,NY,NY,377,0,1,4,0,382,381,1.0,99.0,0.0
+Kennedy (NY),Democratic,NY,NY,370,0,0,12,0,382,382,3.1,96.9,0.0
+Latimer,Democratic,NY,NY,360,11,1,10,0,382,370,2.7,97.3,2.9
+Mannion,Democratic,NY,NY,356,0,0,26,0,382,382,6.8,93.2,0.0
+Meeks,Democratic,NY,NY,363,12,1,6,0,382,369,1.6,98.4,3.1
+Meng,Democratic,NY,NY,367,10,0,5,0,382,372,1.3,98.7,2.6
+Morelle,Democratic,NY,NY,363,5,1,13,0,382,376,3.5,96.5,1.3
+Nadler,Democratic,NY,NY,340,42,0,0,0,382,340,0.0,100.0,11.0
+Ocasio-Cortez,Democratic,NY,NY,370,12,0,0,0,382,370,0.0,100.0,3.1
+Riley (NY),Democratic,NY,NY,331,6,0,45,0,382,376,12.0,88.0,1.6
+Ryan,Democratic,NY,NY,348,1,0,33,0,382,381,8.7,91.3,0.3
+Suozzi,Democratic,NY,NY,316,7,0,59,0,382,375,15.7,84.3,1.8
+Tonko,Democratic,NY,NY,377,4,0,1,0,382,378,0.3,99.7,1.0
+Torres (NY),Democratic,NY,NY,360,9,0,13,0,382,373,3.5,96.5,2.4
+Velázquez,Democratic,NY,NY,369,12,0,1,0,382,370,0.3,99.7,3.1
+Beatty,Democratic,OH,OH,349,26,1,6,0,382,355,1.7,98.3,6.8
+Brown,Democratic,OH,OH,380,0,0,2,0,382,382,0.5,99.5,0.0
+Kaptur,Democratic,OH,OH,330,7,6,39,0,382,369,10.6,89.4,1.8
+Landsman,Democratic,OH,OH,339,1,1,41,0,382,380,10.8,89.2,0.3
+Sykes,Democratic,OH,OH,351,11,1,19,0,382,370,5.1,94.9,2.9
+Bonamici,Democratic,OR,OR,380,2,0,0,0,382,380,0.0,100.0,0.5
+Bynum,Democratic,OR,OR,358,1,2,21,0,382,379,5.5,94.5,0.3
+Dexter,Democratic,OR,OR,381,1,0,0,0,382,381,0.0,100.0,0.3
+Hoyle (OR),Democratic,OR,OR,364,6,1,11,0,382,375,2.9,97.1,1.6
+Salinas,Democratic,OR,OR,373,0,0,9,0,382,382,2.4,97.6,0.0
+Boyle (PA),Democratic,PA,PA,357,12,0,13,0,382,370,3.5,96.5,3.1
+Dean (PA),Democratic,PA,PA,377,4,0,1,0,382,378,0.3,99.7,1.0
+Deluzio,Democratic,PA,PA,375,0,0,7,0,382,382,1.8,98.2,0.0
+Evans (PA),Democratic,PA,PA,350,31,0,1,0,382,351,0.3,99.7,8.1
+Houlahan,Democratic,PA,PA,351,5,4,22,0,382,373,5.9,94.1,1.3
+Lee (PA),Democratic,PA,PA,382,0,0,0,0,382,382,0.0,100.0,0.0
+Scanlon,Democratic,PA,PA,379,3,0,0,0,382,379,0.0,100.0,0.8
+Hernández,Democratic,PR,PR,35,5,0,0,0,40,35,0.0,100.0,12.5
+Amo,Democratic,RI,RI,376,0,0,6,0,382,382,1.6,98.4,0.0
+Magaziner,Democratic,RI,RI,357,8,0,17,0,382,374,4.5,95.5,2.1
+Clyburn,Democratic,SC,SC,368,6,0,8,0,382,376,2.1,97.9,1.6
+Cohen,Democratic,TN,TN,367,8,0,7,0,382,374,1.9,98.1,2.1
+Casar,Democratic,TX,TX,321,61,0,0,0,382,321,0.0,100.0,16.0
+Castro (TX),Democratic,TX,TX,373,8,0,1,0,382,374,0.3,99.7,2.1
+Crockett,Democratic,TX,TX,358,23,0,1,0,382,359,0.3,99.7,6.0
+Cuellar,Democratic,TX,TX,247,5,0,130,0,382,377,34.5,65.5,1.3
+Doggett,Democratic,TX,TX,371,9,0,2,0,382,373,0.5,99.5,2.4
+Escobar,Democratic,TX,TX,378,2,0,2,0,382,380,0.5,99.5,0.5
+Fletcher,Democratic,TX,TX,375,0,0,7,0,382,382,1.8,98.2,0.0
+Garcia (TX),Democratic,TX,TX,358,22,0,2,0,382,360,0.6,99.4,5.8
+"Gonzalez, V.",Democratic,TX,TX,278,9,1,94,0,382,372,25.3,74.7,2.4
+"Green, Al (TX)",Democratic,TX,TX,376,4,2,0,0,382,376,0.0,100.0,1.0
+Johnson (TX),Democratic,TX,TX,357,7,0,18,0,382,375,4.8,95.2,1.8
+Menefee,Democratic,TX,TX,86,8,0,0,0,94,86,0.0,100.0,8.5
+Turner (TX),Democratic,TX,TX,32,0,0,1,0,33,33,3.0,97.0,0.0
+Veasey,Democratic,TX,TX,344,8,1,29,0,382,373,7.8,92.2,2.1
+Beyer,Democratic,VA,VA,371,8,1,2,0,382,373,0.5,99.5,2.1
+Connolly,Democratic,VA,VA,62,19,0,1,0,82,63,1.6,98.4,23.2
+McClellan,Democratic,VA,VA,379,0,1,2,0,382,381,0.5,99.5,0.0
+Scott (VA),Democratic,VA,VA,380,1,0,1,0,382,381,0.3,99.7,0.3
+Subramanyam,Democratic,VA,VA,364,1,2,15,0,382,379,4.0,96.0,0.3
+Vindman,Democratic,VA,VA,332,2,0,48,0,382,380,12.6,87.4,0.5
+Walkinshaw,Democratic,VA,VA,221,1,1,3,0,226,224,1.3,98.7,0.4
+Plaskett,Democratic,VI,VI,28,11,0,1,0,40,29,3.4,96.6,27.5
+Balint,Democratic,VT,VT,381,1,0,0,0,382,381,0.0,100.0,0.3
+DelBene,Democratic,WA,WA,370,5,1,6,0,382,376,1.6,98.4,1.3
+Jayapal,Democratic,WA,WA,365,16,0,1,0,382,366,0.3,99.7,4.2
+Larsen (WA),Democratic,WA,WA,362,10,0,10,0,382,372,2.7,97.3,2.6
+Perez,Democratic,WA,WA,266,4,0,112,0,382,378,29.6,70.4,1.0
+Randall,Democratic,WA,WA,369,12,0,1,0,382,370,0.3,99.7,3.1
+Schrier,Democratic,WA,WA,344,6,0,32,0,382,376,8.5,91.5,1.6
+Smith (WA),Democratic,WA,WA,372,5,0,5,0,382,377,1.3,98.7,1.3
+Strickland,Democratic,WA,WA,368,4,0,10,0,382,378,2.6,97.4,1.0
+Moore (WI),Democratic,WI,WI,370,8,0,4,0,382,374,1.1,98.9,2.1
+Pocan,Democratic,WI,WI,379,2,0,1,0,382,380,0.3,99.7,0.5
+Kiley (CA),Independent,CA,CA,5,1,1,51,0,58,56,91.1,8.9,1.7
+Begich,Republican,AK,AK,5,3,0,374,0,382,379,98.7,1.3,0.8
+Aderholt,Republican,AL,AL,12,5,0,365,0,382,377,96.8,3.2,1.3
+Moore (AL),Republican,AL,AL,6,8,0,368,0,382,374,98.4,1.6,2.1
+Palmer,Republican,AL,AL,6,4,0,372,0,382,378,98.4,1.6,1.0
+Rogers (AL),Republican,AL,AL,13,6,0,363,0,382,376,96.5,3.5,1.6
+Strong,Republican,AL,AL,10,5,0,367,0,382,377,97.3,2.7,1.3
+Crawford,Republican,AR,AR,5,7,0,370,0,382,375,98.7,1.3,1.8
+Hill (AR),Republican,AR,AR,14,4,0,364,0,382,378,96.3,3.7,1.0
+Westerman,Republican,AR,AR,11,3,0,368,0,382,379,97.1,2.9,0.8
+Womack,Republican,AR,AR,16,45,0,321,0,382,337,95.3,4.7,11.8
+Radewagen,Republican,AS,AS,0,28,0,12,0,40,12,100.0,0.0,70.0
+Biggs (AZ),Republican,AZ,AZ,7,12,0,363,0,382,370,98.1,1.9,3.1
+Ciscomani,Republican,AZ,AZ,14,8,0,360,0,382,374,96.3,3.7,2.1
+Crane,Republican,AZ,AZ,10,1,0,371,0,382,381,97.4,2.6,0.3
+Gosar,Republican,AZ,AZ,6,10,0,366,0,382,372,98.4,1.6,2.6
+Hamadeh (AZ),Republican,AZ,AZ,4,2,1,375,0,382,379,98.9,1.1,0.5
+Schweikert,Republican,AZ,AZ,6,6,0,370,0,382,376,98.4,1.6,1.6
+Calvert,Republican,CA,CA,15,2,0,365,0,382,380,96.1,3.9,0.5
+Fong,Republican,CA,CA,13,9,0,360,0,382,373,96.5,3.5,2.4
+Issa,Republican,CA,CA,13,2,0,367,0,382,380,96.6,3.4,0.5
+Kiley (CA),Republican,CA,CA,20,2,1,301,0,324,321,93.8,6.2,0.6
+Kim,Republican,CA,CA,13,3,0,366,0,382,379,96.6,3.4,0.8
+LaMalfa,Republican,CA,CA,0,9,0,244,0,253,244,100.0,0.0,3.6
+McClintock,Republican,CA,CA,6,14,0,362,0,382,368,98.4,1.6,3.7
+Obernolte,Republican,CA,CA,18,3,1,360,0,382,378,95.2,4.8,0.8
+Valadao,Republican,CA,CA,27,8,0,347,0,382,374,92.8,7.2,2.1
+Boebert,Republican,CO,CO,9,10,0,363,0,382,372,97.6,2.4,2.6
+Crank,Republican,CO,CO,6,0,0,376,0,382,382,98.4,1.6,0.0
+Evans (CO),Republican,CO,CO,18,0,0,364,0,382,382,95.3,4.7,0.0
+Hurd (CO),Republican,CO,CO,17,1,0,364,0,382,381,95.5,4.5,0.3
+Bean (FL),Republican,FL,FL,3,0,0,379,0,382,382,99.2,0.8,0.0
+Bilirakis,Republican,FL,FL,6,9,0,367,0,382,373,98.4,1.6,2.4
+Buchanan,Republican,FL,FL,13,15,0,354,0,382,367,96.5,3.5,3.9
+Cammack,Republican,FL,FL,4,5,0,373,0,382,377,98.9,1.1,1.3
+Diaz-Balart,Republican,FL,FL,17,20,0,345,0,382,362,95.3,4.7,5.2
+Donalds,Republican,FL,FL,7,25,0,350,0,382,357,98.0,2.0,6.5
+Dunn (FL),Republican,FL,FL,3,43,0,336,0,382,339,99.1,0.9,11.3
+Fine,Republican,FL,FL,7,1,0,322,0,330,329,97.9,2.1,0.3
+"Franklin, Scott",Republican,FL,FL,2,2,0,378,0,382,380,99.5,0.5,0.5
+Gimenez,Republican,FL,FL,16,31,0,335,0,382,351,95.4,4.6,8.1
+Haridopolos,Republican,FL,FL,12,6,0,364,0,382,376,96.8,3.2,1.6
+Lee (FL),Republican,FL,FL,5,25,0,352,0,382,357,98.6,1.4,6.5
+Luna,Republican,FL,FL,9,25,0,348,0,382,357,97.5,2.5,6.5
+Mast,Republican,FL,FL,8,7,0,367,0,382,375,97.9,2.1,1.8
+Mills,Republican,FL,FL,5,7,0,370,0,382,375,98.7,1.3,1.8
+Patronis,Republican,FL,FL,10,0,0,320,0,330,330,97.0,3.0,0.0
+Rutherford,Republican,FL,FL,5,49,0,328,0,382,333,98.5,1.5,12.8
+Salazar,Republican,FL,FL,16,42,0,324,0,382,340,95.3,4.7,11.0
+Steube,Republican,FL,FL,7,7,0,368,0,382,375,98.1,1.9,1.8
+Waltz,Republican,FL,FL,0,4,0,5,0,9,5,100.0,0.0,44.4
+Webster (FL),Republican,FL,FL,4,2,0,376,0,382,380,98.9,1.1,0.5
+Allen,Republican,GA,GA,1,4,0,377,0,382,378,99.7,0.3,1.0
+Carter (GA),Republican,GA,GA,5,17,0,360,0,382,365,98.6,1.4,4.5
+Clyde,Republican,GA,GA,4,3,0,375,0,382,379,98.9,1.1,0.8
+Collins,Republican,GA,GA,2,3,0,377,0,382,379,99.5,0.5,0.8
+Fuller,Republican,GA,GA,2,0,0,44,0,46,46,95.7,4.3,0.0
+Greene (GA),Republican,GA,GA,7,25,1,220,0,253,227,96.9,3.1,9.9
+Jack,Republican,GA,GA,8,0,0,374,0,382,382,97.9,2.1,0.0
+Loudermilk,Republican,GA,GA,1,17,0,364,0,382,365,99.7,0.3,4.5
+McCormick,Republican,GA,GA,4,1,0,377,0,382,381,99.0,1.0,0.3
+"Scott, Austin",Republican,GA,GA,2,2,0,378,0,382,380,99.5,0.5,0.5
+Moylan,Republican,GU,GU,18,6,0,16,0,40,34,47.1,52.9,15.0
+Feenstra,Republican,IA,IA,11,6,0,365,0,382,376,97.1,2.9,1.6
+Hinson,Republican,IA,IA,7,4,0,371,0,382,378,98.1,1.9,1.0
+Miller-Meeks,Republican,IA,IA,17,12,0,353,0,382,370,95.4,4.6,3.1
+Nunn (IA),Republican,IA,IA,20,12,1,349,0,382,369,94.6,5.4,3.1
+Fulcher,Republican,ID,ID,3,5,0,374,0,382,377,99.2,0.8,1.3
+Simpson,Republican,ID,ID,19,5,0,358,0,382,377,95.0,5.0,1.3
+Bost,Republican,IL,IL,6,3,0,373,0,382,379,98.4,1.6,0.8
+LaHood,Republican,IL,IL,7,26,0,349,0,382,356,98.0,2.0,6.8
+Miller (IL),Republican,IL,IL,2,6,0,374,0,382,376,99.5,0.5,1.6
+Baird,Republican,IN,IN,9,20,0,353,0,382,362,97.5,2.5,5.2
+Houchin,Republican,IN,IN,1,7,0,374,0,382,375,99.7,0.3,1.8
+Messmer,Republican,IN,IN,3,5,0,374,0,382,377,99.2,0.8,1.3
+Shreve,Republican,IN,IN,1,5,0,376,0,382,377,99.7,0.3,1.3
+Spartz,Republican,IN,IN,10,15,0,357,0,382,367,97.3,2.7,3.9
+Stutzman,Republican,IN,IN,1,5,0,376,0,382,377,99.7,0.3,1.3
+Yakym,Republican,IN,IN,2,0,0,380,0,382,382,99.5,0.5,0.0
+Estes,Republican,KS,KS,5,2,0,375,0,382,380,98.7,1.3,0.5
+Mann,Republican,KS,KS,1,0,0,381,0,382,382,99.7,0.3,0.0
+Schmidt,Republican,KS,KS,5,3,0,374,0,382,379,98.7,1.3,0.8
+Barr,Republican,KY,KY,2,14,0,366,0,382,368,99.5,0.5,3.7
+Comer,Republican,KY,KY,4,8,0,370,0,382,374,98.9,1.1,2.1
+Guthrie,Republican,KY,KY,12,1,0,369,0,382,381,96.9,3.1,0.3
+Massie,Republican,KY,KY,44,13,2,323,0,382,367,88.0,12.0,3.4
+Rogers (KY),Republican,KY,KY,13,8,0,361,0,382,374,96.5,3.5,2.1
+Higgins (LA),Republican,LA,LA,2,3,0,377,0,382,379,99.5,0.5,0.8
+Johnson (LA),Republican,LA,LA,1,0,0,325,0,326,326,99.7,0.3,0.0
+Letlow,Republican,LA,LA,2,15,0,365,0,382,367,99.5,0.5,3.9
+Scalise,Republican,LA,LA,3,5,0,374,0,382,377,99.2,0.8,1.3
+Harris (MD),Republican,MD,MD,8,9,1,364,0,382,372,97.8,2.2,2.4
+Barrett,Republican,MI,MI,7,3,0,372,0,382,379,98.2,1.8,0.8
+Bergman,Republican,MI,MI,6,10,0,366,0,382,372,98.4,1.6,2.6
+Huizenga,Republican,MI,MI,9,5,0,368,0,382,377,97.6,2.4,1.3
+James,Republican,MI,MI,12,12,0,358,0,382,370,96.8,3.2,3.1
+McClain,Republican,MI,MI,8,8,0,366,0,382,374,97.9,2.1,2.1
+Moolenaar,Republican,MI,MI,10,2,0,370,0,382,380,97.4,2.6,0.5
+Walberg,Republican,MI,MI,10,3,0,369,0,382,379,97.4,2.6,0.8
+Emmer,Republican,MN,MN,2,3,0,377,0,382,379,99.5,0.5,0.8
+Finstad,Republican,MN,MN,2,5,0,375,0,382,377,99.5,0.5,1.3
+Fischbach,Republican,MN,MN,2,1,0,379,0,382,381,99.5,0.5,0.3
+Stauber,Republican,MN,MN,11,4,0,367,0,382,378,97.1,2.9,1.0
+Alford,Republican,MO,MO,11,6,0,365,0,382,376,97.1,2.9,1.6
+Burlison,Republican,MO,MO,9,15,0,358,0,382,367,97.5,2.5,3.9
+Graves,Republican,MO,MO,3,11,0,368,0,382,371,99.2,0.8,2.9
+Onder,Republican,MO,MO,6,7,0,369,0,382,375,98.4,1.6,1.8
+Smith (MO),Republican,MO,MO,4,9,0,369,0,382,373,98.9,1.1,2.4
+Wagner,Republican,MO,MO,10,2,0,370,0,382,380,97.4,2.6,0.5
+King-Hinds,Republican,MP,MP,19,8,0,13,0,40,32,40.6,59.4,20.0
+Ezell,Republican,MS,MS,8,1,0,373,0,382,381,97.9,2.1,0.3
+Guest,Republican,MS,MS,6,7,0,369,0,382,375,98.4,1.6,1.8
+Kelly (MS),Republican,MS,MS,1,4,0,377,0,382,378,99.7,0.3,1.0
+Downing,Republican,MT,MT,2,0,0,380,0,382,382,99.5,0.5,0.0
+Zinke,Republican,MT,MT,10,6,0,366,0,382,376,97.3,2.7,1.6
+Edwards,Republican,NC,NC,17,3,0,362,0,382,379,95.5,4.5,0.8
+Foxx,Republican,NC,NC,1,3,0,378,0,382,379,99.7,0.3,0.8
+Harrigan,Republican,NC,NC,5,8,0,369,0,382,374,98.7,1.3,2.1
+Harris (NC),Republican,NC,NC,4,0,0,378,0,382,382,99.0,1.0,0.0
+Hudson,Republican,NC,NC,5,4,0,373,0,382,378,98.7,1.3,1.0
+Knott,Republican,NC,NC,4,4,0,374,0,382,378,98.9,1.1,1.0
+McDowell,Republican,NC,NC,7,1,0,374,0,382,381,98.2,1.8,0.3
+Moore (NC),Republican,NC,NC,3,2,0,377,0,382,380,99.2,0.8,0.5
+Murphy,Republican,NC,NC,5,67,0,310,0,382,315,98.4,1.6,17.5
+Rouzer,Republican,NC,NC,2,4,0,376,0,382,378,99.5,0.5,1.0
+Fedorchak,Republican,ND,ND,2,11,0,369,0,382,371,99.5,0.5,2.9
+Bacon,Republican,NE,NE,35,2,0,345,0,382,380,90.8,9.2,0.5
+Flood,Republican,NE,NE,13,2,0,367,0,382,380,96.6,3.4,0.5
+Smith (NE),Republican,NE,NE,9,5,0,368,0,382,377,97.6,2.4,1.3
+Kean,Republican,NJ,NJ,23,66,0,293,0,382,316,92.7,7.3,17.3
+Smith (NJ),Republican,NJ,NJ,16,1,0,365,0,382,381,95.8,4.2,0.3
+Van Drew,Republican,NJ,NJ,17,4,0,361,0,382,378,95.5,4.5,1.0
+Amodei (NV),Republican,NV,NV,13,14,0,355,0,382,368,96.5,3.5,3.7
+Garbarino,Republican,NY,NY,27,11,2,342,0,382,369,92.7,7.3,2.9
+LaLota,Republican,NY,NY,29,7,0,346,0,382,375,92.3,7.7,1.8
+Langworthy,Republican,NY,NY,10,5,0,367,0,382,377,97.3,2.7,1.3
+Lawler,Republican,NY,NY,41,7,0,334,0,382,375,89.1,10.9,1.8
+Malliotakis,Republican,NY,NY,26,6,0,350,0,382,376,93.1,6.9,1.6
+Stefanik,Republican,NY,NY,10,65,0,307,0,382,317,96.8,3.2,17.0
+Tenney,Republican,NY,NY,4,2,0,376,0,382,380,98.9,1.1,0.5
+Balderson,Republican,OH,OH,6,7,0,369,0,382,375,98.4,1.6,1.8
+Carey,Republican,OH,OH,14,7,0,361,0,382,375,96.3,3.7,1.8
+Davidson,Republican,OH,OH,11,4,2,365,0,382,376,97.1,2.9,1.0
+Jordan,Republican,OH,OH,2,10,0,370,0,382,372,99.5,0.5,2.6
+Joyce (OH),Republican,OH,OH,27,8,0,347,0,382,374,92.8,7.2,2.1
+Latta,Republican,OH,OH,8,0,0,374,0,382,382,97.9,2.1,0.0
+Miller (OH),Republican,OH,OH,11,20,0,351,0,382,362,97.0,3.0,5.2
+Rulli,Republican,OH,OH,13,21,0,348,0,382,361,96.4,3.6,5.5
+Taylor,Republican,OH,OH,7,0,0,375,0,382,382,98.2,1.8,0.0
+Turner (OH),Republican,OH,OH,25,7,0,350,0,382,375,93.3,6.7,1.8
+Bice,Republican,OK,OK,12,4,0,366,0,382,378,96.8,3.2,1.0
+Brecheen,Republican,OK,OK,7,19,0,356,0,382,363,98.1,1.9,5.0
+Cole,Republican,OK,OK,17,6,0,359,0,382,376,95.5,4.5,1.6
+Hern (OK),Republican,OK,OK,3,7,0,372,0,382,375,99.2,0.8,1.8
+Lucas,Republican,OK,OK,12,5,0,365,0,382,377,96.8,3.2,1.3
+Bentz,Republican,OR,OR,11,0,0,371,0,382,382,97.1,2.9,0.0
+Bresnahan,Republican,PA,PA,29,2,0,351,0,382,380,92.4,7.6,0.5
+Fitzpatrick,Republican,PA,PA,82,5,0,295,0,382,377,78.2,21.8,1.3
+Joyce (PA),Republican,PA,PA,2,1,0,379,0,382,381,99.5,0.5,0.3
+Kelly (PA),Republican,PA,PA,8,8,0,366,0,382,374,97.9,2.1,2.1
+Mackenzie,Republican,PA,PA,29,2,0,351,0,382,380,92.4,7.6,0.5
+Meuser,Republican,PA,PA,8,20,1,353,0,382,361,97.8,2.2,5.2
+Perry,Republican,PA,PA,12,6,0,364,0,382,376,96.8,3.2,1.6
+Reschenthaler,Republican,PA,PA,3,9,0,370,0,382,373,99.2,0.8,2.4
+Smucker,Republican,PA,PA,6,11,0,365,0,382,371,98.4,1.6,2.9
+Thompson (PA),Republican,PA,PA,13,4,0,365,0,382,378,96.6,3.4,1.0
+Biggs (SC),Republican,SC,SC,2,0,0,380,0,382,382,99.5,0.5,0.0
+Fry,Republican,SC,SC,6,0,1,375,0,382,381,98.4,1.6,0.0
+Mace,Republican,SC,SC,9,39,1,333,0,382,342,97.4,2.6,10.2
+Norman,Republican,SC,SC,3,24,0,355,0,382,358,99.2,0.8,6.3
+Timmons,Republican,SC,SC,3,5,0,374,0,382,377,99.2,0.8,1.3
+Wilson (SC),Republican,SC,SC,3,21,0,358,0,382,361,99.2,0.8,5.5
+Johnson (SD),Republican,SD,SD,3,3,0,376,0,382,379,99.2,0.8,0.8
+Burchett,Republican,TN,TN,12,11,0,359,0,382,371,96.8,3.2,2.9
+DesJarlais,Republican,TN,TN,4,14,0,364,0,382,368,98.9,1.1,3.7
+Fleischmann,Republican,TN,TN,12,1,0,369,0,382,381,96.9,3.1,0.3
+Green (TN),Republican,TN,TN,0,24,0,111,0,135,111,100.0,0.0,17.8
+Harshbarger,Republican,TN,TN,3,4,0,375,0,382,378,99.2,0.8,1.0
+Kustoff,Republican,TN,TN,6,3,0,373,0,382,379,98.4,1.6,0.8
+Ogles,Republican,TN,TN,7,17,0,358,0,382,365,98.1,1.9,4.5
+Rose,Republican,TN,TN,5,8,0,369,0,382,374,98.7,1.3,2.1
+Van Epps,Republican,TN,TN,1,0,0,172,0,173,173,99.4,0.6,0.0
+Arrington,Republican,TX,TX,3,11,0,368,0,382,371,99.2,0.8,2.9
+Babin,Republican,TX,TX,4,7,0,371,0,382,375,98.9,1.1,1.8
+Carter (TX),Republican,TX,TX,8,3,0,371,0,382,379,97.9,2.1,0.8
+Cloud,Republican,TX,TX,8,3,0,371,0,382,379,97.9,2.1,0.8
+Crenshaw,Republican,TX,TX,3,32,0,347,0,382,350,99.1,0.9,8.4
+De La Cruz,Republican,TX,TX,4,20,0,358,0,382,362,98.9,1.1,5.2
+Ellzey,Republican,TX,TX,14,2,0,366,0,382,380,96.3,3.7,0.5
+Fallon,Republican,TX,TX,2,4,0,376,0,382,378,99.5,0.5,1.0
+Gill (TX),Republican,TX,TX,5,5,0,372,0,382,377,98.7,1.3,1.3
+Goldman (TX),Republican,TX,TX,2,0,0,380,0,382,382,99.5,0.5,0.0
+"Gonzales, Tony",Republican,TX,TX,3,34,0,299,0,336,302,99.0,1.0,10.1
+Gooden,Republican,TX,TX,4,0,0,378,0,382,382,99.0,1.0,0.0
+Hunt,Republican,TX,TX,2,91,0,289,0,382,291,99.3,0.7,23.8
+Jackson (TX),Republican,TX,TX,3,8,0,371,0,382,374,99.2,0.8,2.1
+Luttrell,Republican,TX,TX,6,2,0,374,0,382,380,98.4,1.6,0.5
+McCaul,Republican,TX,TX,14,31,0,337,0,382,351,96.0,4.0,8.1
+Moran,Republican,TX,TX,3,2,1,376,0,382,379,99.2,0.8,0.5
+Nehls,Republican,TX,TX,3,20,0,359,0,382,362,99.2,0.8,5.2
+Pfluger,Republican,TX,TX,4,2,0,376,0,382,380,98.9,1.1,0.5
+Roy,Republican,TX,TX,11,11,0,360,0,382,371,97.0,3.0,2.9
+Self,Republican,TX,TX,10,7,0,365,0,382,375,97.3,2.7,1.8
+Sessions,Republican,TX,TX,5,1,0,376,0,382,381,98.7,1.3,0.3
+Van Duyne,Republican,TX,TX,3,1,0,378,0,382,381,99.2,0.8,0.3
+Weber (TX),Republican,TX,TX,1,8,0,373,0,382,374,99.7,0.3,2.1
+Williams (TX),Republican,TX,TX,6,13,0,363,0,382,369,98.4,1.6,3.4
+Kennedy (UT),Republican,UT,UT,4,4,0,374,0,382,378,98.9,1.1,1.0
+Maloy,Republican,UT,UT,16,3,0,363,0,382,379,95.8,4.2,0.8
+Moore (UT),Republican,UT,UT,9,1,0,372,0,382,381,97.6,2.4,0.3
+Owens,Republican,UT,UT,10,5,0,367,0,382,377,97.3,2.7,1.3
+Cline,Republican,VA,VA,3,2,0,377,0,382,380,99.2,0.8,0.5
+Griffith,Republican,VA,VA,11,0,1,370,0,382,381,97.1,2.9,0.0
+Kiggans (VA),Republican,VA,VA,20,2,0,360,0,382,380,94.7,5.3,0.5
+McGuire,Republican,VA,VA,3,1,0,378,0,382,381,99.2,0.8,0.3
+Wittman,Republican,VA,VA,9,10,0,363,0,382,372,97.6,2.4,2.6
+Baumgartner,Republican,WA,WA,5,6,0,371,0,382,376,98.7,1.3,1.6
+Newhouse,Republican,WA,WA,18,7,0,357,0,382,375,95.2,4.8,1.8
+Fitzgerald,Republican,WI,WI,3,3,0,376,0,382,379,99.2,0.8,0.8
+Grothman,Republican,WI,WI,1,8,0,373,0,382,374,99.7,0.3,2.1
+Steil,Republican,WI,WI,4,3,0,375,0,382,379,98.9,1.1,0.8
+Tiffany,Republican,WI,WI,3,9,0,370,0,382,373,99.2,0.8,2.4
+Van Orden,Republican,WI,WI,12,29,1,340,0,382,352,96.6,3.4,7.6
+Wied,Republican,WI,WI,3,3,0,376,0,382,379,99.2,0.8,0.8
+Miller (WV),Republican,WV,WV,2,7,0,373,0,382,375,99.5,0.5,1.8
+Moore (WV),Republican,WV,WV,10,6,0,366,0,382,376,97.3,2.7,1.6
+Hageman,Republican,WY,WY,5,1,0,376,0,382,381,98.7,1.3,0.3
